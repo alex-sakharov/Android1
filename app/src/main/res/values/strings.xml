@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">URL grabber</string>
+    <string name="waiting_for_url">Waiting for URL</string>
+</resources>
